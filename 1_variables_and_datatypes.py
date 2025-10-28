@@ -8,7 +8,7 @@
 # Step 5: End
 
 # Let's write that algorithm in Python code:
-num1 = 5
+num1 = 5 #integer data type
 num2 = 7
 sum_result = num1 + num2
 print("The sum is:", sum_result)
